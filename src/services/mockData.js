@@ -667,7 +667,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "19662",
+    id: "19666",
     title: "Lagaan: Once Upon a Time in India",
     overview: "In Victorian India, a resilient group of villagers accepts a challenge from a ruthless British officer to play a game of cricket in order to avoid paying high taxes for three years.",
     backdrop_path: "https://i.cdn.newsbytesapp.com/images/l720210615132559.jpeg",
@@ -682,7 +682,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "19995",
+    id: "19404",
     title: "Dilwale Dulhania Le Jayenge",
     overview: "Raj and Simran meet on a trip through Europe and fall in love. However, Simran's conservative father has already promised her hand in marriage to a man in India, forcing Raj to follow Simran to win over her traditional family.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR57g8hlEWVZl8UcmKaH6JMbKsOOiLKxMnWaQ&s",
@@ -697,7 +697,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "33282",
+    id: "12259",
     title: "Sholay",
     overview: "In the tiny village of Ramgarh, a retired police chief hires two colorful, small-time convicts to capture an infamous, ruthless dacoit named Gabbar Singh who slaughtered his entire family.",
     backdrop_path: "https://ottalert.com.in/wp-content/uploads/2025/12/sholay-1.webp",
@@ -712,7 +712,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "73937",
+    id: "61202",
     title: "Zindagi Na Milegi Dobara",
     overview: "Three childhood friends set off on a bachelor road trip through stunning Spain. During their adventures, each confronts their deepest fears, heals old wounds, and rediscovers their zest for life.",
     backdrop_path: "https://occ-0-64-58.1.nflxso.net/dnm/api/v6/0DW6CdE4gYtYx8iy3aj8gs9WtXE/AAAABVuBN6ZolgNkgl31u4EDNJDpWxhFf-YmePoli8gmDccMYooJv3UoSx6lxXwd6Vu7_4gRQp0noJ4-vOtx4jPW6VwB6zA.jpg?r=3f4",
@@ -727,7 +727,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "180948",
+    id: "185008",
     title: "Yeh Jawaani Hai Deewani",
     overview: "Kabir and Naina bond during a trekking trip. Before Naina can express her feelings, Kabir leaves India to pursue his dream career. They cross paths years later at a friend's wedding and discover that some bonds are timeless.",
     backdrop_path: "https://filmophilia.home.blog/wp-content/uploads/2019/07/1600x1200-yeh_jawaani_hai_deewani_movie_poster.jpg",
@@ -742,7 +742,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "273248",
+    id: "297222",
     title: "PK",
     overview: "A naive, innocent alien lands on Earth in Rajasthan, loses his communication device, and asks innocent questions that challenge religious dogmas, leading to an eye-opening journey of self-reflection.",
     backdrop_path: "https://m.media-amazon.com/images/M/MV5BNTE5ZmI1OTYtMzlhNS00NjA0LThiMDYtNmY0YWVhYTY4YjdjXkEyXkFqcGc@._V1_QL75_UX388_.jpg",
@@ -757,7 +757,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "348842",
+    id: "348892",
     title: "Bajrangi Bhaijaan",
     overview: "An earnest Indian man with a magnanimous spirit embarks on a courageous journey to reunite a mute six-year-old Pakistani girl, who got lost in India, with her family in Pakistan.",
     backdrop_path: "https://images.justwatch.com/backdrop/318566002/s640/bajrangi-bhaijaan.jpg",
@@ -802,7 +802,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "869626",
+    id: "864692",
     title: "Pathaan",
     overview: "An Indian spy takes on the leader of a mercenary group of rogue agents who has a catastrophic plan to unleash a deadly weaponized virus on the country.",
     backdrop_path: "https://substackcdn.com/image/fetch/$s_!sfqW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F062cf04d-6cd6-4079-9a24-24a8ec93bb35_1280x640.avif",
@@ -832,7 +832,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "856289",
+    id: "848116",
     title: "Rocky Aur Rani Kii Prem Kahaani",
     overview: "Rocky, a flamboyant Punjabi guy, and Rani, an intellectual Bengali journalist, fall in love despite their vast cultural differences. They decide to live with each other's families for three months before getting married.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ72EoQXXhJuDuTOF2FyUnKh0v_vmFaAl1Nw&s",
@@ -847,7 +847,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "490184",
+    id: "496331",
     title: "Brahmastra Part One: Shiva",
     overview: "A young DJ named Shiva discovers he has an extraordinary connection to the element of fire, and holds the key to awakening a powerful, celestial weapon known as the Brahmastra.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxtKLyPRBvX3j05jqlf2Hgk4NDhE2Z-jaSaQ&s",
@@ -877,7 +877,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "294272",
+    id: "256040",
     title: "Baahubali: The Beginning",
     overview: "A young man raises a small army to rescue his captured biological mother from the clutches of a cruel, tyrannical king who rules a majestic, ancient kingdom.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZJ2s8Re4D03lxEvn1QJy47R5pO5NnS0qvhQ&s",
@@ -907,7 +907,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "245842",
+    id: "352173",
     title: "Drishyam",
     overview: "A common, cable TV operator goes to extreme, meticulous lengths to shield his family from prosecution after they commit an accidental murder of a high-ranking police officer's son.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPTi3LaT-Zow7Y_95a3SmRkItYHkvJvse3Bw&s",
@@ -922,7 +922,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "972324",
+    id: "1029827",
     title: "Drishyam 2",
     overview: "Seven years after the case that shook his family, Vijay Salgaonkar finds himself facing new threats as a relentless investigator reopens the case, threatening to uncover his secrets.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRWC5utEVzx9Dlj3nW-w5tJXk1_ajADFYl9A&s",
@@ -937,7 +937,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "244458",
+    id: "247645",
     title: "Queen",
     overview: "A Delhi girl from a traditional family decides to go on her pre-booked honeymoon solo after her fiancé calls off the wedding at the eleventh hour, leading to an empowering trip around Paris and Amsterdam.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbw0lNlkJyWQgx05G2N24LFiDe2c0yDZUo8Q&s",
@@ -952,7 +952,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "127532",
+    id: "127501",
     title: "Barfi!",
     overview: "Set in Darjeeling in the 1970s, this is the story of Barfi, a mute and deaf man, and his sweet relationship with two beautiful women: Shruti and Jhilmil, an autistic girl.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd6l-qX3s-m_ukTZQvkZsflAa2VPCuGUatWw&s",
@@ -967,7 +967,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "535292",
+    id: "491625",
     title: "Gully Boy",
     overview: "A coming-of-age story based on the lives of street rappers in Mumbai's Dharavi slums, documenting their raw struggles and dreams of breaking into mainstream hip-hop.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BXVuQeEdMFE7K1B4KWxVlNUVGHBqn3A0pA&s",
@@ -982,7 +982,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "124157",
+    id: "117691",
     title: "Gangs of Wasseypur - Part 1",
     overview: "A clash between a powerful coal-mining mafioso politician and three generations of a vengeful family in the coal capital of Wasseypur sparks a legendary blood feud.",
     backdrop_path: "https://external-preview.redd.it/netflix-to-stream-5-5-hour-cult-indian-film-gangs-of-v0-24R03W-ncPMOWtbmFoT_Zk3yd4v14Lgt8uG1lHtSknw.jpg?auto=webp&s=c0be01ba2e33fcf96c09b5b1ea4d8411762e9723",
@@ -997,7 +997,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "124158",
+    id: "126400",
     title: "Gangs of Wasseypur - Part 2",
     overview: "The bloody feud continues in Wasseypur as Definite and Faizal Khan rise to power. Fueled by greed, political nexus, and ancient vengeance, the conflict spirals completely out of control.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVlHM39c6C28CgK80jJprioSaRBBQbxfDh1w&s",
@@ -1012,7 +1012,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "508140",
+    id: "534780",
     title: "Andhadhun",
     overview: "A blind piano player gets hilariously and dangerously caught up in a web of murders and deception after he accidentally witnesses the corpse of a former movie star.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3v186Zuy6sT9IyrOheeIu3NNo5uI-vZz5Lw&s",
@@ -1027,7 +1027,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "599542",
+    id: "596650",
     title: "Chhichhore",
     overview: "A tragic incident forces an aging father to take a walk down memory lane and share his nostalgic college days alongside his colorful gang of misfit friends who were labeled losers.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThf9X59wpVAZ91xiztQmV6iKG3RpbkIdrbxA&s",
@@ -1042,7 +1042,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "532292",
+    id: "533991",
     title: "Stree",
     overview: "In the small town of Chanderi, men live in absolute fear of an evil spirit named Stree who abducts men at night during festivals, leaving only their clothes behind.",
     backdrop_path: "https://images.indianexpress.com/2018/08/stree-nale-ba-759.jpg?w=1200",
@@ -1057,7 +1057,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "571384",
+    id: "554600",
     title: "Uri: The Surgical Strike",
     overview: "Divided into five chapters, the film chronicles the strategic, tactical, and highly covert surgical strikes carried out by the Indian Army on terror launchpads in 2016.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnapGElS9oZidqGji0MP_JiCtYPF2w0EntNw&s",
@@ -1072,7 +1072,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "614626",
+    id: "584850",
     title: "Tanhaji: The Unsung Warrior",
     overview: "A spectacular biographical action drama depicting the life of Tanaji Malusare, a 17th-century military leader in the Maratha Empire, and his historic battle at Sinhagad Fort.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFIzuFoUZtSZN0p3dRC9sZ6u920bQejgx_bw&s",
@@ -1087,7 +1087,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "581532",
+    id: "577328",
     title: "Kabir Singh",
     overview: "A brilliant but highly self-destructive house surgeon spirals completely out of control into a dark path of drugs, alcohol, and absolute rage after his lover is forced to marry another man.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCtyP8iu0SzS25t1WwehDSCY8u7R21fOQP5w&s",
@@ -1102,7 +1102,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "599292",
+    id: "585268",
     title: "War",
     overview: "An Indian soldier is assigned to eliminate his former mentor, a highly decorated special forces rogue agent, leading to a high-speed, globe-trotting clash of tactical wits.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe-3rnGsyqVMUDSYZ1qMm_Svj2VOdpmkWSkQ&s",
@@ -1117,7 +1117,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "586289",
+    id: "534075",
     title: "Super 30",
     overview: "Based on the life of brilliant mathematician Anand Kumar, who initiates a revolutionary program in Patna to tutor 30 highly underprivileged but talented students for the elite IIT entrance exams.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0EM3dmuZzIJQqj3j5hH500rAS8e5uJ1u85Q&s",
@@ -1132,7 +1132,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "350316",
+    id: "432527",
     title: "Padmaavat",
     overview: "Set in medieval Rajasthan, Queen Padmavati's peaceful life is disrupted when a cruel, tyrannical sultan becomes insanely obsessed with her beauty and wages war on her kingdom to capture her.",
     backdrop_path: "https://i.ndtvimg.com/i/2017-12/padmavati_650x400_81514625951.jpg",
@@ -1147,7 +1147,7 @@ export const mockMovies = [
     industry: "bollywood"
   },
   {
-    id: "313364",
+    id: "362045",
     title: "Bajirao Mastani",
     overview: "An epic, tragic historical romance depicting the lives of heroic Maratha Peshwa Bajirao and his second wife, the warrior princess Mastani, amid heavy political opposition.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfJ7i-xF5BxSayHZtNtH7gCBFl-VpJItyVA&s",
@@ -1609,7 +1609,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "92452",
+    id: "93352",
     title: "The Family Man",
     overview: "The thrilling journey of a middle-class common man who secretly works as a high-ranking intelligence officer for a special cell of the National Investigation Agency, struggling to balance high-stakes national security with familial duties.",
     backdrop_path: "https://m.media-amazon.com/images/S/pv-target-images/04b53844c44bc3c4fa52415bd34ce29a932a40986d7b9ec6189b2f3bed76e714.jpg",
@@ -1624,7 +1624,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "97224",
+    id: "101352",
     title: "Panchayat",
     overview: "An engineering graduate takes up a low-paying job of a secretary in a remote, rural village Panchayat in Uttar Pradesh, encountering colorful villagers, local politics, and rustic life.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgIy1DfxSygC4JJyqYaAdQQoYaJ3wyS2MB3g&s",
@@ -1654,7 +1654,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "102148",
+    id: "103051",
     title: "Paatal Lok",
     overview: "A cynical, down-on-his-luck Delhi police officer gets assigned to investigate a high-profile assassination attempt, leading him deep into the dark, terrifying underworld of Paatal Lok.",
     backdrop_path: "https://miro.medium.com/0*QLk6tewcEBDF2TUz.jpeg",
@@ -1669,7 +1669,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "97120",
+    id: "87508",
     title: "Delhi Crime",
     overview: "Based on real-life case files, Delhi Crime follows the meticulous, high-tension investigation led by a determined female police commissioner following a heinous, nationwide shock crime in Delhi.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiS1bP8YclXO_6r1evjcu7Z_hA3esJtus0Ug&s",
@@ -1699,7 +1699,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "92996",
+    id: "90966",
     title: "Gullak",
     overview: "Centered in a quaint, middle-class North Indian town, this heart-warming comedy-drama chronicles the everyday anecdotes, sweet disagreements, and budget constraints of the lovable Mishra family.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLaaVKAMMJTRY2MicweXKChsNFN-l_Hl25Dw&s",
@@ -1714,7 +1714,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "125638",
+    id: "124411",
     title: "Aspirants",
     overview: "The story outlines the complex journey of three childhood friends prep-studying in Old Rajinder Nagar, Delhi, for the highly competitive UPSC civil services examination, highlighting their struggles, friendship, and adult realizations.",
     backdrop_path: "https://cf-images.assettype.com/cinemaexpress%2F2026-03-02%2Fv47apk21%2FTVF-Aspirants.jpg?w=480&auto=format%2Ccompress&fit=max",
@@ -1729,7 +1729,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "196624",
+    id: "132117",
     title: "Farzi",
     overview: "A brilliant, small-time artist designs an incredibly high-fidelity counterfeit currency note, pulling him into a high-stakes game of cat-and-mouse with a relentless, fiery task force officer.",
     backdrop_path: "https://i.pinimg.com/736x/29/c4/78/29c4784ea4e78cf18fa27dae59472f0c.jpg",
@@ -1744,7 +1744,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "204526",
+    id: "156714",
     title: "Guns & Gulaabs",
     overview: "In the lawless, retro town of Gulaabganj, an unexpected cartel deal entangles a nostalgic mechanic, a reluctant heir to a crime family, and an earnest narcotics officer in a hilarious, retro-styled dark comedy thriller.",
     backdrop_path: "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/guns-and-gulaabs-183150-16x9.jpeg?VersionId=ib1ciq5E4eWIyu.ttk_RD3vncidu00Rf",
@@ -1759,7 +1759,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "228542",
+    id: "230034",
     title: "Kohrra",
     overview: "When a wealthy NRI bridegroom is found dead in the countryside of Punjab just days before his wedding, two tired police officers must unpack a deep web of family secrets, deceit, and personal turmoil to solve it.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmWKFlYo9SFCGn3bke0HbV9MfrRYHQz8FdVw&s",
@@ -1774,7 +1774,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "219532",
+    id: "222922",
     title: "Jubilee",
     overview: "A poetic, grand historical drama set in the golden age of Hindi cinema, documenting the ambitions, dark compromises, romances, and rise to stardom of iconic filmmakers and actors in post-independence Bombay.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSblu2LjnBSYYUdquQyTItsLRJsi25sXVqR_A&s",
@@ -1789,7 +1789,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "90024",
+    id: "87407",
     title: "Made in Heaven",
     overview: "Two wedding planners in Delhi navigate the luxurious, modern, and highly traditional demands of upscale Indian weddings, exposing complex societal prejudices, hidden agendas, and their own messy personal lives.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgwlH1B5_nax79eLoqpcBQHbKhQXnT6o3UTA&s",
@@ -1804,7 +1804,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "109289",
+    id: "720321",
     title: "Breathe: Into the Shadows",
     overview: "A desperate father goes to terrifying, illegal extremes to rescue his kidnapped young daughter from a mysterious, masked kidnapper who demands he commit murders in exchange.",
     backdrop_path: "https://upload.wikimedia.org/wikipedia/en/0/0a/Breathe_Into_The_Shadows_Poster.jpeg",
@@ -1819,7 +1819,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "97560",
+    id: "100612",
     title: "Special OPS",
     overview: "An intelligence officer tracks a highly elusive, master terror operative across 19 years and multiple countries, deploying five covert agents in deep cover across the globe.",
     backdrop_path: "https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9789/1757951169789-i",
@@ -1834,7 +1834,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "98246",
+    id: "100911",
     title: "Asur: Welcome to Your Dark Side",
     overview: "A brilliant forensic expert teams up with his former mentor at CBI, plunging into a high-stakes, psychological chase with a serial killer who styles his murders after ancient Indian mythology.",
     backdrop_path: "https://images.justwatch.com/backdrop/340111590/s640/asur.jpg",
@@ -1849,7 +1849,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "109848",
+    id: "104913",
     title: "Aarya",
     overview: "A loving mother is forced to join a dangerous drug cartel to protect her three children from powerful, ruthless mafia families after her husband is mysteriously assassinated.",
     backdrop_path: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnPebsTjPOvVzmyV9AppHw2KeiEkDYCxl0Jw&s",
@@ -1864,7 +1864,7 @@ export const mockTVShows = [
     industry: "bollywood"
   },
   {
-    id: "215638",
+    id: "203832",
     title: "Taaza Khabar",
     overview: "A humble sanitation worker in Mumbai discovers he has a magical power to receive news alerts of the future hours before they happen, initiating a high-speed climb up the ranks of wealth and greed.",
     backdrop_path: "https://m.media-amazon.com/images/M/MV5BYzJmYTcxMGQtMjI1Yi00N2QyLWEzNTctMTM4NTQwNTE1ODBlXkEyXkFqcGc@._V1_.jpg",
